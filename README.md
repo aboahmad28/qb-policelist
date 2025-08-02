@@ -3,6 +3,8 @@
 ## Overview
 QB-PoliceList is a comprehensive police management system for FiveM servers using the QBCore framework. This script provides law enforcement officers with a dynamic and interactive interface to manage their duties, track fellow officers, respond to emergencies, and coordinate operations efficiently.
 
+[Preview](https://youtu.be/FRT327GHDjE?si=2qwLa6TcqCGz2Lx7)
+
 Created by Coast Side Dev (Abo Ahmad, For4, and Abo Tahsin), this resource enhances the roleplay experience for police departments by offering real-time officer tracking, panic button functionality, and department-specific organization.
 
 ## Features
